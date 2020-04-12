@@ -1,0 +1,4 @@
+C:\Users\Иван\OneDrive\Рабочий стол\бебя\Debug\бебя.exe
+C:\Users\Иван\OneDrive\Рабочий стол\бебя\Debug\бебя.pdb
+C:\Users\Иван\OneDrive\Рабочий стол\(23)Лаба 6к\Debug\Лаба 6к.exe
+C:\Users\Иван\OneDrive\Рабочий стол\(23)Лаба 6к\Debug\Лаба 6к.pdb
